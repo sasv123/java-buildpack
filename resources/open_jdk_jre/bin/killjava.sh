@@ -19,6 +19,7 @@
 
 set -e
 
+echo "Susovan"
 echo "
 Process Status (Before)
 =======================
